@@ -6,10 +6,10 @@ I have 4 YoE, and was formerly [@northwesternmutual](https://github.com/northwes
 
 ## About Me
 
-- 👔 Available for hire, am actively interviewing.
 - 🧩 Enjoys daily code puzzles and challenges.
 - 🧠 Currently refreshing one's memory on frontend fundamentals.
 - 🛋 Language currently most comfortable with: JavaScript.
+- 👔 Available for hire, am actively interviewing.
 
 ## WIP
 
