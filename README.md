@@ -1,8 +1,12 @@
 ## Hello 🌎
 
+I'm George, a fullstack engineer from San Francisco Bay Area. 
+
+I have 4 YoE, and was formerly [@northwesternmutual](https://github.com/northwesternmutual) building multiple internal web tools to improve the data-fetching response times for our users, and a PII data masking application.
+
 ## About Me
 
-- 🧑🏻‍💻 Former backend engineer [@northwesternmutual](https://github.com/northwesternmutual).
+- 👔 Available for hire, am actively interviewing.
 - 🧩 Enjoys daily code puzzles and challenges.
 - 🧠 Currently refreshing one's memory on frontend fundamentals.
 - 🛋 Language currently most comfortable with: JavaScript.
