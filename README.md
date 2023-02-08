@@ -2,7 +2,7 @@
 
 I'm George, a fullstack engineer from San Francisco Bay Area. 
 
-I have 4 YoE, and was formerly [@northwesternmutual](https://github.com/northwesternmutual) building multiple internal web tools to improve the data-fetching response times for our users, and a PII data masking application.
+I have 4 YoE, and was formerly [@northwesternmutual](https://github.com/northwesternmutual) building internal web tools in GraphQL to improve the data-fetching response time for our users, and a PII data masking application in Go.
 
 ## About Me
 
