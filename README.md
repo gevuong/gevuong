@@ -1,5 +1,4 @@
 ## Hello 🌎
-![Profile Views](https://komarev.com/ghpvc/?username=gevuong)
 
 ## About Me
 
@@ -15,3 +14,5 @@
 
 ## LeetCode Stats
 [![George's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gevu0ng&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=gevuong)
