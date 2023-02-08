@@ -8,7 +8,7 @@ I have 4 YoE, and was formerly [@northwesternmutual](https://github.com/northwes
 
 - 🧩 Enjoys daily code puzzles and challenges.
 - 🧠 Currently refreshing one's memory on frontend fundamentals.
-- 🛋 Language currently most comfortable with: JavaScript.
+- 🛋 Language most comfortable with: JavaScript.
 - 👔 Available for hire, actively interviewing.
 
 ## WIP
@@ -19,4 +19,4 @@ I have 4 YoE, and was formerly [@northwesternmutual](https://github.com/northwes
 ## LeetCode 📊
 [![George's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gevu0ng&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=gevuong)
+![Profile Views](https://komarev.com/ghpvc/?username=gevuong&color=yellow)
