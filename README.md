@@ -13,10 +13,15 @@ I have 4 YoE, and was formerly [@northwesternmutual](https://github.com/northwes
 
 ## WIP
 
+- 📓 Build a portfolio.
 - ✍🏻 Start a tech blog.
 - ⌨️ Incorporate TypeScript to daily coding routine.
 
 ## LeetCode 📊
 [![George's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gevu0ng&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+Thanks for stopping by! 👋🏼
+
 ![Profile Views](https://komarev.com/ghpvc/?username=gevuong&color=yellow)
+
+
