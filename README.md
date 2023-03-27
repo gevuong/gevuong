@@ -2,7 +2,7 @@
 
 I'm George, a fullstack engineer from San Francisco Bay Area. 
 
-I have 4 YoE, and was formerly [@northwesternmutual](https://github.com/northwesternmutual) building internal web tools with GraphQL, Node, and React to improve the data-fetching response times for our users, and a PII data masking application in Go.
+I have 4+ YoE, and was formerly [@northwesternmutual](https://github.com/northwesternmutual) building internal web tools with Apollo GraphQL, Node, and React to improve the data-fetching response time for users, and a PII data masking application in Go.
 
 ## About 👨🏻
 
@@ -13,8 +13,8 @@ I have 4 YoE, and was formerly [@northwesternmutual](https://github.com/northwes
 
 ## WIP
 
-- 📓 Build a portfolio.
-- ✍🏻 Start a tech blog.
+- 📓 Portfolio.
+- ✍🏻 Blog.
 - ⌨️ Incorporate TypeScript to daily coding routine.
 
 ## LeetCode 📊
