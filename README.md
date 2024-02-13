@@ -6,10 +6,9 @@ I have 4 years of professional experience, and was formerly [@northwesternmutual
 
 ## Things I'm Working On 🧑🏻‍💻
 
-- 😷 Updating [Project N95](https://www.projectn95.org/) to properly source and query the latest version of Shopify's GraphQL APIs via Gatsby source plugin.
+- 😷 Updating and fixing bugs on [Virufy](https://www.virufy.org/).
 - 🛒 Building an E-commerce web application with React, Redux, TypeScript, Firebase, and Stripe.
 - ✍🏻 Continuously documenting things I learn as a developer with Docusaurus.
-- 🤖 Exploring AI Automation with Puppeteer, Botpress, Flowise AI, etc.
 - 🧐 From time to time, problem solving on LeetCode, Designgurus, and NeetCode.
 
 
