@@ -2,12 +2,12 @@
 
 I'm George, a full stack engineer from the San Francisco Bay Area. 
 
-I have 4 years of professional experience, and was formerly [@northwesternmutual](https://github.com/northwesternmutual) building internal web tools with Node, React, and GraphQL to fetch insurance policy data in real-time from various data sources (ie. IBM DB2, AWS RDS), and a PII data masking application in Golang.
+I have 4+ years of professional experience, and am a self-starter with a passion for continous learning, and staying up-to-date with industry best practices. I was formerly [@northwesternmutual](https://github.com/northwesternmutual) building internal search tools with Node, React, and Apollo GraphQL to fetch insurance policy data in real-time from various data sources (ie. AWS RDS, IBM Db2), and a PII data masking application in Golang.
 
 ## Things I'm Working On 🧑🏻‍💻
 
-- 😷 Updating and fixing bugs on [Virufy](https://www.virufy.org/).
-- 🛒 Building an E-commerce web application with React, Redux, TypeScript, Firebase, and Stripe.
+- 😷 Improving the responsive design, SEO, web accessibility, and overall code quality @Virufy.
+- 🛒 Learning TailwindCSS by building beautiful, responsive web pages from scratch.
 - ✍🏻 Continuously documenting things I learn as a developer with Docusaurus.
 - 🧐 From time to time, problem solving on LeetCode, Designgurus, and NeetCode.
 
