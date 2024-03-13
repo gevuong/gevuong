@@ -6,7 +6,7 @@ I have 4+ years of professional experience, and am a self-starter with a passion
 
 ## Things I'm Working On 🧑🏻‍💻
 
-- 📱 Improving the responsive design, SEO, and overall code quality @Virufy[https://virufy.org/en/].
+- 📱 Improving the responsive design, SEO, and overall code quality [@Virufy](https://virufy.org/en/) on [Github](https://github.com/virufy).
 - 🎐 Learning TailwindCSS by building beautiful, responsive web pages from scratch.
 - ✍🏻 Continuously documenting things I learn as a developer with Docusaurus.
 - 🧐 From time to time, problem solving on LeetCode, Designgurus, and NeetCode.
