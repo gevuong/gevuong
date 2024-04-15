@@ -7,9 +7,9 @@ I have 4+ years of professional experience, and am a self-starter with a passion
 ## Things I'm Working On 🧑🏻‍💻
 
 - 🤒 Web development [@Virufy](https://virufy.org/en/), improving the responsive design, SEO, and overall code quality with Next.js, Typescript, and TailwindCSS.
-- 📑 Learning to build beautiful, responsive web pages from scratch using TailwindCSS.
+- 📑 Learning TailwindCSS, building beautiful, responsive web pages from scratch.
 - ✍🏻 Documenting things I learn as a developer with Docusaurus.
-- 🧐 When I'm in the mood, problem solving on LeetCode, Designgurus, and NeetCode.
+- 🧐 From time to time, problem solving on LeetCode, Designgurus, and NeetCode.
 
 
 ## LeetCode 📊
