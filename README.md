@@ -7,8 +7,8 @@ I have 4+ years of professional experience, and am a self-starter with a passion
 I currently have a strong interest in the aerospace, veterinary, environment and climate tech, and healthcare industries, but am absolutely open to other industries as well.
 
 I was formerly at:
-- Tigo Energy as a full stack web developer, modernizing the tech stack for their flagship [Energy Intelligence (EI) software](https://www.tigoenergy.com/monitoring) which would significantly improve overall query performance and user experience. I primarily used **JavaScript**, **PHP**, **PostgreSQL**, **Clickhouse**, and **Docker**.
-- [@northwesternmutual](https://github.com/northwesternmutual) building internal search tools with **Node**, **React**, and **Apollo GraphQL** to fetch insurance policy data in real-time from various data sources (ie. AWS RDS, IBM Db2), and a PII data masking application in **Golang**.
+- Tigo Energy as a full stack web developer, modernizing the tech stack for their flagship [Energy Intelligence (EI) software](https://www.tigoenergy.com/monitoring) which would significantly improve user experience and query performance by up to 10x. I primarily used **JavaScript**, **PHP**, **PostgreSQL**, **Clickhouse**, and **Docker**.
+- [@northwesternmutual](https://github.com/northwesternmutual) building internal search tools with **Node**, **React**, and **Apollo GraphQL** to fetch insurance policy data in real-time from various data sources (ie. **AWS RDS**, **IBM Db2**), and a PII data masking application in **Golang**.
 
 ## Things I'm Working On 🧑🏻‍💻
 
