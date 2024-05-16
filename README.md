@@ -3,7 +3,7 @@
 I'm George, a software engineer from the San Francisco Bay Area.
 
 I have 4+ years of professional experience and was formerly at:
-- Tigo Energy, a mid-size renewable energy company, modernizing the tech stack for their flagship product, [Energy Intelligence (EI)](https://www.tigoenergy.com/monitoring), designing and implementing new classes and schemas, and writing scripts to migrate data from Postgres to [Clickhouse](https://clickhouse.com/), which has shown to improve query performance by up to 10x.
+- Tigo Energy, a mid-size renewable energy company, modernizing the tech stack for their flagship software product, [Energy Intelligence (EI)](https://www.tigoenergy.com/monitoring), designing and implementing new classes and schemas, and writing scripts to migrate data from Postgres to [Clickhouse](https://clickhouse.com/), which has shown to improve query performance by up to 10x.
 - [@northwesternmutual](https://github.com/northwesternmutual), a massive financial services company, building internal web search tools with **NestJS**, **React**, **Typescript**, and **Apollo GraphQL** to fetch insurance policy data in real-time from various data sources (ie. **AWS RDS**, **IBM Db2**), and a PII data masking application in **Golang**.
 
 Although most of my experience has been backend and full-stack, I recently discovered frontend web development to be my passion. I find collaborating with UI/UX designers and building professional and engaging user interfaces and experiences to be kind of fun and rewarding.
