@@ -12,7 +12,4 @@ Although most of my experience has been backend and full-stack, frontend web dev
 
 - Frontend web development [@Virufy](https://virufy.org/en/). I'm transforming new **Figma** designs into responsive web pages on the marketing site, leveraging **React**, **Next.js**, **Typescript**, and **Tailwind CSS** to ensure seamless user experience across devices. The newly designed site is expected to be released by the end of June 2024. 
 
-## LeetCode 📊
-[![George's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gevu0ng&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=gevuong&color=yellow)
