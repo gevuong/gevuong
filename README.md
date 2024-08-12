@@ -11,7 +11,7 @@ Although most of my experience has been backend and full-stack, frontend web dev
 ## Things I'm Working On 🧑🏻‍💻
 
 - Frontend web development [@Virufy](https://virufy.org/en/). I'm transforming new **Figma** designs into responsive web pages on the marketing site, leveraging **React**, **Next.js**, **Typescript**, and **Tailwind CSS** to ensure seamless user experience across devices. The newly designed site is expected to be released by the end of Aug 2024.
-- Learning the foundations of building API apps with OpenAI (ie. tokenization, embeddings, prompting techniques, etc), building agentic AI workflows, leveraging open source AI With Hugging Face, etc.
+- Learning the foundations of building API apps with [@OpenAI](https://github.com/openai) (ie. tokenization, embeddings, prompting techniques, etc), agentic AI workflows, open source AI With [@Hugging Face](https://github.com/huggingface), etc.
 - Actively looking for fullstack, backend, and frontend engineering roles.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gevuong&color=green)
