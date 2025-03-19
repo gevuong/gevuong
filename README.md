@@ -8,9 +8,8 @@ I have 4+ years of professional experience and was formerly at:
 
 Although most of my experience has been backend and full-stack, frontend web development is becoming my newfound passion. I find collaborating with UI/UX designers and building professional and engaging user interfaces and experiences to be fun and rewarding.
 
-## Things I'm Working On 🧑🏻‍💻
+## Things I Recently Worked On 🧑🏻‍💻
 
-- Frontend web development [@Virufy](https://virufy.org/en/). I'm transforming new **Figma** designs into responsive web pages on the marketing site, leveraging **React**, **Next.js**, **Typescript**, and **Tailwind CSS** to ensure seamless user experience across devices.
-- Learning the foundations of building API apps with [@OpenAI](https://github.com/openai) (ie. tokenization, embeddings, prompting techniques, etc), agentic AI workflows, open source AI With [@Hugging Face](https://github.com/huggingface), etc.
+- Frontend web development [@Virufy](https://gevuong.github.io/minimal-i18n-with-app-router/en), transforming new **Figma** designs into responsive web pages on the marketing site, leveraging **React**, **Next.js**, **Typescript**, and **Tailwind CSS** to ensure seamless user experience across devices.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gevuong&color=green)
